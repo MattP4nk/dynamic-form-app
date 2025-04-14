@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **TypeScript** – Lenguaje tipado para un código escalable y mantenible  
 - **Vue 3** – Framework progresivo para interfaces web  
