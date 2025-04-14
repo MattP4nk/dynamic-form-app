@@ -46,7 +46,7 @@ Después de iniciar la aplicacion:
 
 - Se mostrara un formulario de ejemplo por defecto.
 - Puedes escribir tu propio JSON para generar un form personalizado.
-- Los datos ingresados se guardarán al enviar el formulario (ya sea localmente o en un servidor, según la configuración).
+- Los datos ingresados se guardarán al enviar el formulario.
 
 ### Ejemplo de JSON
 
